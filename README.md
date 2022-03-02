@@ -1,7 +1,8 @@
 # Hai, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Let Me Introduce Myself, My Name is JerkKids From #########,Im 17 Years Old 
-If u Had a trouble,Just Contact Me
+#Let Me Introduce Myself, My Name is JerkKids From ########
+#Im 17 Years Old 
+#If u Had a trouble,Just Contact Me
 
 ### Let's Connect :coffee:
 <p align="center">
