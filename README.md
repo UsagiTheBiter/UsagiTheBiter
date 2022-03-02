@@ -1,3 +1,19 @@
+# Hai, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Let Me Introduce Myself, My Name is JerkKids From #########,Im 17 Years Old 
+If u Had a trouble,Just Contact Me
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/usagithebiter"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/the-rabbit-9006ba233/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/jerkkids.jerkkids.9/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/jerkkids/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/JerkKidsJr"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
+
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/usagithebiter/usagithebiter">
