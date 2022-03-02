@@ -1,9 +1,12 @@
 # Hai, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
--😽Let Me Introduce Myself, My Name is JerkKids From ########
--🙋Im 17 Years Old 
--🔊My Hobby is Playing Musics
--🐍If u Had a trouble,Just Contact Me
+⚡ Fun fact:
+- 👯 I’m looking to collaborate on projects that are using Bash.
+- 🌱 I’m currently learning Bash and Python required for my project.
+- :pencil2: I always learning in a free days.
+- :musical_note: I love to hear music.
+
+
 
 ### Let's Connect :coffee:
 <p align="center">
